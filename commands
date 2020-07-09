@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo `git add .`
+echo `git commit -m "automatic commit"`
+echo `git push origin master`
+
